@@ -1,5 +1,4 @@
 # OFFICIAL DOGECOIN 2 SITE
-# Welcome To The Site
 ----------------
 WELCOME TO THE DOGECOIN 2 WEBSITE
 THE LINK FOR THE DOGECOIN 2 GAME IS: https://dogeminer2.com/play/
